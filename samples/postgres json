@@ -1,0 +1,1225 @@
+{
+  "data": {
+    "rss1_outlets": [
+      {
+        "country": "india",
+        "id": 1,
+        "language": "english",
+        "logo_url": "https://i.postimg.cc/pXnK0rKK/times-of-india.jpg",
+        "outlet": "timesofindia",
+        "outlet_display": "Times Of India",
+        "rss_reliability": 10
+      },
+      {
+        "country": "india",
+        "id": 2,
+        "language": "engish",
+        "logo_url": "https://i.postimg.cc/bwQ1SXQh/h-circle-black-white-new.png",
+        "outlet": "thehindu",
+        "outlet_display": "The Hindu",
+        "rss_reliability": 10
+      },
+      {
+        "country": "USA",
+        "id": 3,
+        "language": "english",
+        "logo_url": "https://i.postimg.cc/d18BZd6t/81762-cnn-icon.png",
+        "outlet": "cnn",
+        "outlet_display": "CNN",
+        "rss_reliability": 10
+      },
+      {
+        "country": "usa",
+        "id": 4,
+        "language": "english",
+        "logo_url": "https://i.postimg.cc/26x7kWCp/Fox-News-Channel-logo-svg-1.png",
+        "outlet": "foxnews",
+        "outlet_display": "Fox News",
+        "rss_reliability": 10
+      }
+    ]
+  }
+} 
+
+{
+  "data": {
+    "rss1_links": [
+      {
+        "id": 5,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/7098551.cms",
+        "rss1_link_name": "NRI",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 6,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
+        "rss1_link_name": "Business",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 7,
+        "outlet": "timesofindia",
+        "rss1_link": "https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms",
+        "rss1_link_name": "US",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 8,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+        "rss1_link_name": "Cricket",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 9,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+        "rss1_link_name": "Sports",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 10,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms",
+        "rss1_link_name": "Science",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 11,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/2647163.cms",
+        "rss1_link_name": "Environment",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 12,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
+        "rss1_link_name": "Tech",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 13,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/913168846.cms",
+        "rss1_link_name": "Education",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 14,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+        "rss1_link_name": "Entertainment",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 15,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/2886704.cms",
+        "rss1_link_name": "Life & Style",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 16,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedmostread.cms",
+        "rss1_link_name": "Most Read",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 17,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedmostshared.cms",
+        "rss1_link_name": "Most Shared",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 18,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedmostcommented.cms",
+        "rss1_link_name": "Most Commented",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 19,
+        "outlet": "timesofindia",
+        "rss1_link": "https://timesofindia.indiatimes.com/rssfeeds/65857041.cms",
+        "rss1_link_name": "Astrology",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 20,
+        "outlet": "timesofindia",
+        "rss1_link": "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms",
+        "rss1_link_name": "Auto",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 21,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms",
+        "rss1_link_name": "Mumbai",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 22,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms",
+        "rss1_link_name": "Delhi",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 23,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms",
+        "rss1_link_name": "Bangalore",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 24,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms",
+        "rss1_link_name": "Hyderabad",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 25,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/2950623.cms",
+        "rss1_link_name": "Chennai",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 26,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms",
+        "rss1_link_name": "Ahemdabad",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 27,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3947060.cms",
+        "rss1_link_name": "Allahabad",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 28,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/4118235.cms",
+        "rss1_link_name": "Bhubaneswar",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 29,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/7503091.cms",
+        "rss1_link_name": "Coimbatore",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 30,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/6547154.cms",
+        "rss1_link_name": "Gurgaon",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 31,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/4118215.cms",
+        "rss1_link_name": "Guwahati",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 32,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3942695.cms",
+        "rss1_link_name": "Hubli",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 33,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3947067.cms",
+        "rss1_link_name": "Kanpur",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 34,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms",
+        "rss1_link_name": "Kolkata",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 35,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3947051.cms",
+        "rss1_link_name": "Ludhiana",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 36,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3942690.cms",
+        "rss1_link_name": "Mangalore",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 37,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3942693.cms",
+        "rss1_link_name": "Mysore",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 38,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/8021716.cms",
+        "rss1_link_name": "Noida",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 39,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+        "rss1_link_name": "Pune",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 40,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3012535.cms",
+        "rss1_link_name": "Goa",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 41,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms",
+        "rss1_link_name": "Chandigarh",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 42,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms",
+        "rss1_link_name": "Lucknow",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 43,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms",
+        "rss1_link_name": "Patna",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 44,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3012544.cms",
+        "rss1_link_name": "Jaipur",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 45,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/442002.cms",
+        "rss1_link_name": "Nagpur",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 46,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3942663.cms",
+        "rss1_link_name": "Rajkot",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 47,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/4118245.cms",
+        "rss1_link_name": "Ranchi",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 48,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3942660.cms",
+        "rss1_link_name": "Surat",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 49,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3942666.cms",
+        "rss1_link_name": "Vadodara",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 50,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3947071.cms",
+        "rss1_link_name": "Varanasi",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 51,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3831863.cms",
+        "rss1_link_name": "Thane",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 52,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/878156304.cms",
+        "rss1_link_name": "Thiruvananthapuram",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 55,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/30359534.cms",
+        "rss1_link_name": "Pakistan",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 56,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/3907412.cms",
+        "rss1_link_name": "South Asia",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 57,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/2177298.cms",
+        "rss1_link_name": "UK",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 2,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+        "rss1_link_name": "Most Recent Stories",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 3,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+        "rss1_link_name": "India",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 4,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+        "rss1_link_name": "World",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 58,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/1898274.cms",
+        "rss1_link_name": "Europe",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 53,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+        "rss1_link_name": "US",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 59,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/1898184.cms",
+        "rss1_link_name": "China",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 60,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/1898272.cms",
+        "rss1_link_name": "Middle East",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 61,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeeds/671314.cms",
+        "rss1_link_name": "Rest of World",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 62,
+        "outlet": "timesofindia",
+        "rss1_link": "http://blogs.timesofindia.indiatimes.com/feed/defaultrss",
+        "rss1_link_name": "All Blogs",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 63,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3812907.cms",
+        "rss1_link_name": "News",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 64,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3812908.cms",
+        "rss1_link_name": "Entertainment",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 65,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3813456.cms",
+        "rss1_link_name": "Sports",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 66,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3813443.cms",
+        "rss1_link_name": "Lifestyle",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 67,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3813458.cms",
+        "rss1_link_name": "Business",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 68,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedsvideomostrecent.cms",
+        "rss1_link_name": "Most Recent",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 1,
+        "outlet": "timesofindia",
+        "rss1_link": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "rss1_link_name": "Top Stories",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 73,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/news/states/feeder/default.rss",
+        "rss1_link_name": "States",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 74,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/news/cities/feeder/default.rss",
+        "rss1_link_name": "Cities",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 75,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/feeder/default.rss",
+        "rss1_link_name": "Opinion",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 76,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/cartoon/feeder/default.rss",
+        "rss1_link_name": "Cartoon",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 77,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/columns/feeder/default.rss",
+        "rss1_link_name": "Columns",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 78,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/op-ed/feeder/default.rss",
+        "rss1_link_name": "Comment",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 79,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/editorial/feeder/default.rss",
+        "rss1_link_name": "Editorial",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 80,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/interview/feeder/default.rss",
+        "rss1_link_name": "Interview",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 81,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/lead/feeder/default.rss",
+        "rss1_link_name": "Lead",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 82,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/letters/feeder/default.rss",
+        "rss1_link_name": "Letters",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 83,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/open-page/feeder/default.rss",
+        "rss1_link_name": "Open Page",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 84,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/Readers-Editor/feeder/default.rss",
+        "rss1_link_name": "Readers' Editor",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 85,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/opinion/Readers-Editor/corrections-and-clarifications/feeder/default.rss",
+        "rss1_link_name": "Corrections & Clarifications",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 86,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/business/feeder/default.rss",
+        "rss1_link_name": "Business",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 87,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/business/agri-business/feeder/default.rss",
+        "rss1_link_name": "Agri-Business",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 88,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/business/Industry/feeder/default.rss",
+        "rss1_link_name": "Industry",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 91,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/business/budget/feeder/default.rss",
+        "rss1_link_name": "Budget",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 98,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/feeder/default.rss",
+        "rss1_link_name": "Sport",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 99,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/cricket/feeder/default.rss",
+        "rss1_link_name": "Cricket",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 100,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/football/feeder/default.rss",
+        "rss1_link_name": "Football",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 101,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/hockey/feeder/default.rss",
+        "rss1_link_name": "Hockey",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 102,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/tennis/feeder/default.rss",
+        "rss1_link_name": "Tennis",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 103,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/athletics/feeder/default.rss",
+        "rss1_link_name": "Athletics",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 104,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/motorsport/feeder/default.rss",
+        "rss1_link_name": "Motorsport",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 105,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/races/feeder/default.rss",
+        "rss1_link_name": "Races",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 106,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sport/other-sports/feeder/default.rss",
+        "rss1_link_name": "Other Sports",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 107,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/entertainment/feeder/default.rss",
+        "rss1_link_name": "Entertainment",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 108,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/entertainment/art/feeder/default.rss",
+        "rss1_link_name": "Art",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 109,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/entertainment/dance/feeder/default.rss",
+        "rss1_link_name": "Dance",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 110,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/entertainment/movies/feeder/default.rss",
+        "rss1_link_name": "Movies",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 111,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/entertainment/music/feeder/default.rss",
+        "rss1_link_name": "Music",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 112,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/entertainment/reviews/feeder/default.rss",
+        "rss1_link_name": "Reviews",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 113,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/entertainment/theatre/feeder/default.rss",
+        "rss1_link_name": "Theatre",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 114,
+        "outlet": "thehindu",
+        "rss1_link": "https://crossword.thehindu.com/?utm_source=thehindu&utm_medium=mainmenufeeder/default.rss",
+        "rss1_link_name": "Crossword+",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 115,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
+        "rss1_link_name": "Science",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 70,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/news/feeder/default.rss",
+        "rss1_link_name": "News",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 71,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "rss1_link_name": "India",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 72,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "rss1_link_name": "World",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 89,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/business/Economy/feeder/default.rss",
+        "rss1_link_name": "Economy",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 90,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/business/markets/feeder/default.rss",
+        "rss1_link_name": "Markets",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 116,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/life-and-style/feeder/default.rss",
+        "rss1_link_name": "Life & Style",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 117,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/life-and-style/fashion/feeder/default.rss",
+        "rss1_link_name": "Fashion",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 118,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/life-and-style/fitness/feeder/default.rss",
+        "rss1_link_name": "Fitness",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 119,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/life-and-style/food/feeder/default.rss",
+        "rss1_link_name": "Food",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 120,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/life-and-style/motoring/feeder/default.rss",
+        "rss1_link_name": "Motoring",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 121,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/life-and-style/travel/feeder/default.rss",
+        "rss1_link_name": "Travel",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 122,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/life-and-style/homes-and-gardens/feeder/default.rss",
+        "rss1_link_name": "Homes and gardens",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 123,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/life-and-style/luxury/feeder/default.rss",
+        "rss1_link_name": "Luxury",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 124,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/thread/feeder/default.rss",
+        "rss1_link_name": "thREAD",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 69,
+        "outlet": "thehindu",
+        "rss1_link": "https://www.thehindu.com/feeder/default.rss",
+        "rss1_link_name": "Home",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 127,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_africa.rss",
+        "rss1_link_name": "africa",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 129,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_asia.rss",
+        "rss1_link_name": "asia",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 130,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_europe.rss",
+        "rss1_link_name": "europe",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 131,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_meast.rss",
+        "rss1_link_name": "meast",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 132,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_us.rss",
+        "rss1_link_name": "us",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 133,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/money_news_international.rss",
+        "rss1_link_name": "international",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 134,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_technology.rss",
+        "rss1_link_name": "technology",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 135,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_space.rss",
+        "rss1_link_name": "space",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 136,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_entertainment.rss",
+        "rss1_link_name": "entertainment",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 137,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_sport.rss",
+        "rss1_link_name": "sport",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 138,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_football.rss",
+        "rss1_link_name": "football",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 139,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_golf.rss",
+        "rss1_link_name": "golf",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 140,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_motorsport.rss",
+        "rss1_link_name": "motorsport",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 141,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_tennis.rss",
+        "rss1_link_name": "tennis",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 142,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_travel.rss",
+        "rss1_link_name": "travel",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 143,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/cnn_freevideo.rss",
+        "rss1_link_name": "freevideo",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 125,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition.rss",
+        "rss1_link_name": "main",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 126,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_world.rss",
+        "rss1_link_name": "world",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 144,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/cnn_latest.rss",
+        "rss1_link_name": "latest",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 128,
+        "outlet": "cnn",
+        "rss1_link": "http://rss.cnn.com/rss/edition_americas.rss",
+        "rss1_link_name": "americas",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 148,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/science.xml",
+        "rss1_link_name": "science",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 149,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/health.xml",
+        "rss1_link_name": "health",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 150,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/sports.xml",
+        "rss1_link_name": "sports",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 151,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/travel.xml",
+        "rss1_link_name": "travel",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 152,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/tech.xml",
+        "rss1_link_name": "tech",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 153,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/opinion.xml",
+        "rss1_link_name": "opinion",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 1
+      },
+      {
+        "id": 145,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "rss1_link_name": "latest",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 154,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/us.xml",
+        "rss1_link_name": "us",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 146,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "rss1_link_name": "world",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      },
+      {
+        "id": 147,
+        "outlet": "foxnews",
+        "rss1_link": "https://moxie.foxnews.com/google-publisher/politics.xml",
+        "rss1_link_name": "politics",
+        "rss1_link_reliability": 10,
+        "rss1_link_type": 11
+      }
+    ]
+  }
+}

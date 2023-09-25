@@ -1,0 +1,6 @@
+oi.ai
+00.ai
+4j.ai
+
+
+postgres://gskchaitanya.gadde:aWO71xgmLjUv@ep-purple-boat-77462220.ap-southeast-1.aws.neon.tech/neondb
