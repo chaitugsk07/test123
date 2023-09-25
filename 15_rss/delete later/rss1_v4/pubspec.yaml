@@ -1,0 +1,81 @@
+name: rss1_v4
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_gen: ^5.3.1
+  flutter_native_splash: ^2.3.2
+  flutter_svg: ^2.0.7
+  google_fonts: ^5.1.0
+
+dev_dependencies:
+  build_runner: ^2.4.6
+  flutter_gen_runner: ^5.3.1
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_native_splash:
+  color: "#f3f6f4"
+  image: assets/images/logo.png
+  android: true
+  ios: true
+  web: true
+
+flutter_gen:
+  output: lib/core/asset_gen/
+  integrations:
+    flutter_svg: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Cabin Condensed
+      fonts:
+        - asset: assets/fonts/Cabin_Condensed/CabinCondensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Cabin_Condensed/CabinCondensed-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Cabin_Condensed/CabinCondensed-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Cabin_Condensed/CabinCondensed-Bold.ttf
+          weight: 700
+    - family: Roboto Condensed
+      fonts:
+        - asset: assets/fonts/Roboto_Condensed/RobotoCondensed-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto_Condensed/RobotoCondensed-Bold.ttf
+          weight: 700
+    - family: Saira Condensed
+      fonts:
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Saira_Condensed/SairaCondensed-Black.ttf
+          weight: 900

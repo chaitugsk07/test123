@@ -1,0 +1,105 @@
+name: rss1_v2
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  animations: ^2.0.7
+  auto_route: ^7.8.0
+  cached_network_image: ^3.2.3
+  connectivity_plus: ^4.0.2
+  cupertino_icons: ^1.0.2
+  dio: ^5.3.2
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_gen: ^5.3.1
+  flutter_hooks: ^0.20.0
+  flutter_svg: ^2.0.7
+  freezed_annotation: ^2.4.1
+  get_it: ^7.6.0
+  graphql: ^5.1.3
+  injectable: ^2.1.6
+  intl: ^0.18.1
+  isar: ^3.1.0+1
+  json_annotation: ^4.8.1
+  logger: ^2.0.1
+  retrofit: ^4.0.1
+
+flutter_gen:
+  integrations:
+    flutter_svg: true
+
+dev_dependencies:
+  auto_route_generator: ^7.3.0
+  build_runner: ^2.4.6
+  dart_code_metrics_presets: ^2.2.0
+  flutter_gen_runner: ^5.3.1
+  flutter_lints: ^2.0.0
+  flutter_native_splash: ^2.3.1
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.4.1
+  injectable_generator: ^2.1.6
+  isar_flutter_libs: ^3.1.0+1
+  isar_generator: ^3.1.0+1
+  json_serializable: ^6.7.1
+  retrofit_generator: ^7.0.8
+  very_good_analysis: ^5.0.0+1
+
+flutter_native_splash:
+  color: "#f3f6f4"
+  image: assets/splash_screen/logo.png
+  android: true
+  ios: true
+  web: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Cabin Condensed
+      fonts:
+        - asset: assets/fonts/Cabin_Condensed/CabinCondensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Cabin_Condensed/CabinCondensed-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Cabin_Condensed/CabinCondensed-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Cabin_Condensed/CabinCondensed-Bold.ttf
+          weight: 700
+    - family: Roboto Condensed
+      fonts:
+        - asset: assets/fonts/Roboto_Condensed/RobotoCondensed-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto_Condensed/RobotoCondensed-Bold.ttf
+          weight: 700
+    - family: Saira Condensed
+      fonts:
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Cabin_Condensed/SairaCondensed-Black.ttf
+          weight: 900
