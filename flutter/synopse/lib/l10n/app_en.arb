@@ -1,0 +1,63 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "The current Language"
+    },
+    "name": "SYNOPSE",
+    "@name": {
+        "description": "App Name"
+    },
+    "b1": "Unbiased News Nuggets",
+    "@b1":{
+        "description": "brand title 1"
+    },
+    "b2": "Better With Friends",
+    "@b2":{
+        "description": "brand title 2"
+    },
+    "c1Google": "Continue With Google",
+    "@c1Google":{
+        "description": "Continue With Google"
+    },
+    "c1Apple": "Continue With Apple",
+    "@c1Apple":{
+        "description": "Continue With Apple"
+    },
+    "c1Microsoft": "Continue With Microsoft",
+    "@c1Microsoft":{
+        "description": "Continue With Microsoft"
+    },
+    "c1Guest": "Continue With Guest",
+    "@c1Guest":{
+        "description": "Continue With Guest"
+    },
+    "r1": "By continuing you agree to our ",
+    "@r1":{
+        "description": "By continuing you agree to our"
+    },
+    "r2": "Terms ",
+    "@r2":{
+        "description": "Terms"
+    },
+    "r3": "and ",
+    "@r3":{
+        "description": "and"
+    },
+    "r4": "Privacy Policy. ",
+    "@r4":{
+        "description": "Privacy Policy."
+    },
+    "changeLanguage": "Change Language",
+    "@changeLanguage":{
+        "description": "change Language."
+    },
+    "hello": "Hello {username}",
+    "@hello":{
+        "Description": "A welcome message",
+        "placeholders": {
+            "username":{
+                "type": "String"
+            }
+        }
+    }
+}

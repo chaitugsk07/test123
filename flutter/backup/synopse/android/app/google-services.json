@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456154860004",
+    "project_id": "synopse",
+    "storage_bucket": "synopse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456154860004:android:5e0d6c983d695503625ff1",
+        "android_client_info": {
+          "package_name": "com.example.synopse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456154860004-v6j31iem46hni8lcj204p7r72rqchhjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjgPpOPRM75SEjRS5BCCDJnDthX6Np_Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456154860004-v6j31iem46hni8lcj204p7r72rqchhjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
