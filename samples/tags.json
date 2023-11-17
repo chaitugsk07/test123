@@ -1,0 +1,241 @@
+{
+    "data": {
+      "synopse_articles_t_v4_tags_hierarchy": [
+        {
+          "tag": "Lifestyle",
+          "tag_description": null,
+          "tag_hierachy": 0
+        },
+        {
+          "tag": "Health",
+          "tag_description": null,
+          "tag_hierachy": 0
+        },
+        {
+          "tag": "Tech & Science",
+          "tag_description": null,
+          "tag_hierachy": 0
+        },
+        {
+          "tag": "Business & Finance",
+          "tag_description": null,
+          "tag_hierachy": 0
+        },
+        {
+          "tag": "Arts, Design & Culture",
+          "tag_description": null,
+          "tag_hierachy": 0
+        },
+        {
+          "tag": "Sports",
+          "tag_description": null,
+          "tag_hierachy": 0
+        },
+        {
+          "tag": "Global & More",
+          "tag_description": null,
+          "tag_hierachy": 0
+        },
+        {
+          "tag": "Travel Tips",
+          "tag_description": null,
+          "tag_hierachy": 203
+        },
+        {
+          "tag": "Architecture",
+          "tag_description": null,
+          "tag_hierachy": 203
+        },
+        {
+          "tag": "Cars",
+          "tag_description": null,
+          "tag_hierachy": 203
+        },
+        {
+          "tag": "Health",
+          "tag_description": null,
+          "tag_hierachy": 204
+        },
+        {
+          "tag": "Mental Wellness",
+          "tag_description": null,
+          "tag_hierachy": 204
+        },
+        {
+          "tag": "Parenting",
+          "tag_description": null,
+          "tag_hierachy": 204
+        },
+        {
+          "tag": "Relationships",
+          "tag_description": null,
+          "tag_hierachy": 204
+        },
+        {
+          "tag": "Disease Watch",
+          "tag_description": null,
+          "tag_hierachy": 204
+        },
+        {
+          "tag": "StartUps",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Tech Companies",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Electric Cars",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Apps",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Gadgets",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Nature",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Climate Change",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Science",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Space",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Gaming",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "AI",
+          "tag_description": null,
+          "tag_hierachy": 205
+        },
+        {
+          "tag": "Stocks & Investing",
+          "tag_description": null,
+          "tag_hierachy": 206
+        },
+        {
+          "tag": "Crypto",
+          "tag_description": null,
+          "tag_hierachy": 206
+        },
+        {
+          "tag": "Personal Finance",
+          "tag_description": null,
+          "tag_hierachy": 206
+        },
+        {
+          "tag": "Real Estate",
+          "tag_description": null,
+          "tag_hierachy": 206
+        },
+        {
+          "tag": "Working and Carrer",
+          "tag_description": null,
+          "tag_hierachy": 206
+        },
+        {
+          "tag": "Business",
+          "tag_description": null,
+          "tag_hierachy": 206
+        },
+        {
+          "tag": "Productivity",
+          "tag_description": null,
+          "tag_hierachy": 206
+        },
+        {
+          "tag": "Books",
+          "tag_description": null,
+          "tag_hierachy": 207
+        },
+        {
+          "tag": "Art",
+          "tag_description": null,
+          "tag_hierachy": 207
+        },
+        {
+          "tag": "Culture",
+          "tag_description": null,
+          "tag_hierachy": 207
+        },
+        {
+          "tag": "Reality TV",
+          "tag_description": null,
+          "tag_hierachy": 207
+        },
+        {
+          "tag": "NFL",
+          "tag_description": null,
+          "tag_hierachy": 208
+        },
+        {
+          "tag": "NBA",
+          "tag_description": null,
+          "tag_hierachy": 208
+        },
+        {
+          "tag": "MLB",
+          "tag_description": null,
+          "tag_hierachy": 208
+        },
+        {
+          "tag": "F1",
+          "tag_description": null,
+          "tag_hierachy": 208
+        },
+        {
+          "tag": "Cricket",
+          "tag_description": null,
+          "tag_hierachy": 208
+        },
+        {
+          "tag": "soccer",
+          "tag_description": null,
+          "tag_hierachy": 208
+        },
+        {
+          "tag": "Tennis",
+          "tag_description": null,
+          "tag_hierachy": 208
+        },
+        {
+          "tag": "All Sports",
+          "tag_description": null,
+          "tag_hierachy": 208
+        },
+        {
+          "tag": "Intl Politics",
+          "tag_description": null,
+          "tag_hierachy": 209
+        },
+        {
+          "tag": "Education",
+          "tag_description": null,
+          "tag_hierachy": 209
+        }
+      ]
+    }
+  }
