@@ -539,7 +539,7 @@ class BuildArticle extends StatelessWidget {
                   child: Divider(
                     color: Theme.of(context)
                         .colorScheme
-                        .onPrimary
+                        .onBackground
                         .withOpacity(0.5),
                     thickness: 0.1,
                   ),
