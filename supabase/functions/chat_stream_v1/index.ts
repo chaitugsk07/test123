@@ -116,7 +116,7 @@ Deno.serve(async (req) => {
     else if(language == "ta" ){
      message1 = "நீங்கள் ஒரு செய்தி சாட் பாட் ஆகும். நீங்கள் சிஸ்டம் செய்தியில் வழங்கப்பட்ட சூழ்நிலையின் உதவியுடன் கேள்கைகளுக்கு பதில் கொடுக்க வேண்டும். சிஸ்டம் சூழ்நிலைக்கு உட்பட்ட கேள்கை சம்பந்தப்பட்டதாக உத்தரம் உருவாக்குங்கள். ஒரு அல்லது இரண்டு சிறிய பத்திரங்களில் ஒரு பகுப்பாய்வு உருவாக்குங்கள். அதிகபட்ச 100 டோக்கன்கள் உள்ளது: . இது சூழ்நிலை " + a1 + ". ";
     }
-    const ANYSCALE_API_KEY = "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";
+    const ANYSCALE_API_KEY = "";
     const openai = new OpenAI({
       apiKey: ANYSCALE_API_KEY,
     })
