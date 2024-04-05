@@ -1,0 +1,38 @@
+{
+    "languages": [
+        {
+            "language_english": "English",
+            "language_native": "English",
+            "language_code": "en",
+            "111_select_language": "Select a language",
+            "111_submit": "Submit",
+            "00_internetIssue": "Please check your internet connection"
+        },
+        {
+            "language_english": "Hindi",
+            "language_native": "हिंदी",
+            "language_code": "hi",
+            "111_select_language": "भाषा चुनें",
+            "111_submit": "सबमिट करें",
+            "00_internetIssue": "कृपया अपना इंटरनेट कनेक्शन जांचें"
+
+        },
+        {
+            "language_english": "Telugu",
+            "language_native": "తెలుగు",
+            "language_code": "te",
+            "111_select_language": "భాషను ఎంచుకోండి",
+            "111_submit": "సబ్మిట్ చేయండి",
+            "00_internetIssue": "దయచేసి మీ ఇంటర్నెట్ కనెక్షన్ ని తనిఖీ చేయండి"
+        },
+        {
+            "language_english": "Tamil",
+            "language_native": "தமிழ்",
+            "language_code": "ta",
+            "111_select_language": "மொழியை தேர்ந்தெடுக்கவும்",
+            "111_submit": "சமர்ப்பிக்கவும்",
+            "00_internetIssue": "உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும்"
+        }
+    ]
+}
+

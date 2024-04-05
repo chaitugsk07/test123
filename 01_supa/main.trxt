@@ -1,0 +1,71 @@
+
+sudo apt update
+sudo apt install postgresql-16-pgvector
+
+sudo su postgres -c psql
+ALTER USER postgres WITH PASSWORD 'chaituGSK07';
+
+CREATE EXTENSION vector;
+
+cd C:\Users\gskch\Downloads\postgresql-16.2-1-windows-x64-binaries\pgsql\bin
+pg_dumpall --dbname=postgres://gskchaitanya.gadde:aWO71xgmLjUv@ep-purple-boat-77462220.ap-southeast-1.aws.neon.tech/neondb --globals-only  > global.sql
+psql -h 34.93.194.38 -U postgres -W < global.sql
+
+pg_dump --dbname=postgres://gskchaitanya.gadde:aWO71xgmLjUv@ep-purple-boat-77462220.ap-southeast-1.aws.neon.tech/neondb --schema-only  > nodata.sql
+psql -h 34.93.194.38 -U postgres -W < nodata.sql
+
+pg_dump --dbname=postgres://gskchaitanya.gadde:aWO71xgmLjUv@ep-purple-boat-77462220.ap-southeast-1.aws.neon.tech/neondb  > all.sql
+psql -h 34.93.194.38 -U postgres -W < all.sql
+
+
+pg_dump --dbname=postgres://gskchaitanya.gadde:aWO71xgmLjUv@ep-purple-boat-77462220.ap-southeast-1.aws.neon.tech/neondb > all.sql
+psql -h 34.93.194.38 -U postgres -W < all.sql
+
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres  > all_latest.sql
+
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v2_articles_vectors > all_vector.sql
+
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only --column-inserts -t synopse_articles.t_v2_articles_vectors > all_vector_v2.sql
+
+psql "postgresql://neondb_owner:slKqdfjZ12NA@ep-sparkling-band-a1gehtu6.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < all_vector.sql
+
+pg_dumpall --dbname=postgres://gskchaitanya.gadde:aWO71xgmLjUv@ep-purple-boat-77462220.ap-southeast-1.aws.neon.tech/neondb --globals-only  > global.sql
+
+postgresql://neondb_owner:slKqdfjZ12NA@ep-sparkling-band-a1gehtu6.ap-southeast-1.aws.neon.tech/neondb?sslmode=require
+
+
+pg_dumpall --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --globals-only  > global_v1.sql
+
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v1_outlets > t_v1_outlets.sql
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v1_rss1_feed_links > t_v1_rss1_feed_links.sql
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v1_rss1_articles > t_v1_rss1_articles.sql
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v1_rss1_articles_detail > t_v1_rss1_articles_detail.sql
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v2_articles_summary > t_v2_articles_summary.sql
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v4_berttopics > t_v4_berttopics
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v4_tags_all_languages > t_v4_tags_all_languages
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --data-only -t synopse_articles.t_v4_tags_hierarchy > t_v4_tags_hierarchy
+
+pg_dump --dbname=postgres://postgres:chaituGSK07@34.93.194.38/postgres --schema-only  > nodata_v2.sql
+
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v1_outlets.sql
+
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < nodata_v2.sql
+
+psql "postgresql://neondb_owner:8DdFTmN2EGVy@ep-falling-mud-a1vdnxok.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < all_vector_v2.sql
+
+
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v1_outlets.sql
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v1_rss1_feed_links.sql
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v1_rss1_articles.sql
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v1_rss1_articles_detail.sql
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v2_articles_summary.sql
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v4_berttopics
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v4_tags_all_languages
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v4_tags_hierarchy
+
+
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v1_outlets.sql
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v1_rss1_feed_links.sql
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v4_berttopics
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v4_tags_all_languages
+psql "postgresql://neondb_owner:UPEwCcuev9A3@ep-still-hat-a195lqjj.ap-southeast-1.aws.neon.tech/neondb?sslmode=require" < t_v4_tags_hierarchy

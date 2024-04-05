@@ -1,0 +1,66 @@
+{
+    "languages": [
+        {
+            "language_english": "English",
+            "language_native": "English",
+            "language_code": "en",
+            "111_select_language": "Select a language",
+            "111_submit": "Submit",
+            "00_internetIssue": "Please check your internet connection",
+            "04_level": "Level",
+            "04_search": "Search",
+            "04_forYou": "For You",
+            "04_areYouSure": "Are you sure?",
+            "04_ExitApp": "Do you want to exit the app?",
+            "04_yes": "Yes",
+            "04_no": "No"
+        },
+        {
+            "language_english": "Hindi",
+            "language_native": "हिंदी",
+            "language_code": "hi",
+            "111_select_language": "भाषा चुनें",
+            "111_submit": "सबमिट करें",
+            "00_internetIssue": "कृपया अपना इंटरनेट कनेक्शन जांचें",
+            "04_level": "स्तर",
+            "04_search": "खोज",
+            "04_forYou": "आपके लिए",
+            "04_areYouSure": "क्या आप सुनिश्चित हैं?",
+            "04_ExitApp": "क्या आप ऐप से बाहर निकलना चाहते हैं?",
+            "04_yes": "हां",
+            "04_no": "नहीं"
+
+        },
+        {
+            "language_english": "Telugu",
+            "language_native": "తెలుగు",
+            "language_code": "te",
+            "111_select_language": "భాషను ఎంచుకోండి",
+            "111_submit": "సబ్మిట్ చేయండి",
+            "00_internetIssue": "దయచేసి మీ ఇంటర్నెట్ కనెక్షన్ ని తనిఖీ చేయండి",
+            "04_level": "స్థాయి",
+            "04_search": "వెతకండి",
+            "04_forYou": "మీ కోసం",
+            "04_areYouSure": "మీరు ఖచ్చితంగా ఉన్నారా?",
+            "04_ExitApp": "మీరు యాప్ ను నిష్క్రమించాలా?",
+            "04_yes": "అవును",
+            "04_no": "కాదు"
+        },
+        {
+            "language_english": "Tamil",
+            "language_native": "தமிழ்",
+            "language_code": "ta",
+            "111_select_language": "மொழியை தேர்ந்தெடுக்கவும்",
+            "111_submit": "சமர்ப்பிக்கவும்",
+            "00_internetIssue": "உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும்",
+            "04_level": "நிலை",
+            "04_search": "தேடு",
+            "04_forYou": "உனக்காக",
+            "04_areYouSure": "நீங்கள் உறுதிப்படுத்தியுள்ளீர்களா?",
+            "04_ExitApp": "நீங்கள் ஆப்ஸ் இருந்து வெளியேற விரும்புகிறீர்களா?",
+            "04_yes": "ஆம்",
+            "04_no": "இல்லை"
+        }
+    ]
+}
+

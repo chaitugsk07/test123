@@ -1,0 +1,90 @@
+[
+    {
+      "onboarding_en": [
+        {
+          "desc": "Experience the world unfiltered. Your news, unbiased and personalized, only with our app.",
+          "image": "https://i.postimg.cc/pTK2fnN9/img1.png",
+          "title": "Welcome to Synopse! \n Stay informed with AI-curated news.",
+          "get_started": "Get Started",
+          "skip": "Skip",
+          "next": "Next"
+        },
+        {
+          "desc": "Dive into detailed breakdowns of complex issues, presented in a clear and concise way. We'll learn your interests to build your personalized news feed. Like articles to tune your recommendations.",
+          "image": "https://i.postimg.cc/d3TGm6s2/img2.png",
+          "title": "Navigate the News Stream"
+        },
+        {
+          "desc": "Discuss the news, share insights, and challenge perspectives in a respectful and open forum. Earn points and levels by reading and commenting. Check the leaderboard and improve your news IQ!. ",
+          "image": "https://i.postimg.cc/h4HYF3dq/img3.png",
+          "title": "Join the Conversation"
+        }
+      ]
+    },
+    {
+      "onboarding_te": [
+        {
+          "desc": "ప్రపంచాన్ని ఫిల్టర్ లేకుండా అనుభవించండి. మీ వార్తలు, పక్షపాతం లేకుండా మరియు వ్యక్తిగతమైన మాత్రమే మా యాప్‌తో.",
+          "image": "https://i.postimg.cc/pTK2fnN9/img1.png",
+          "title": "Synopse కు స్వాగతం! \n AI-క్యూరేటెడ్ న్యూస్‌తో అప్‌డేట్ ఉండండి.",
+          "get_started": "ప్రారంభించండి",
+          "skip": "విడుదల",
+          "next": "తరువాతి"
+        },
+        {
+          "desc": "జటిల సమస్యల వివరణాత్మక వివరణలో డైవ్ చేయండి, స్పష్టమైన మరియు సంక్షిప్తమైన విధానంలో ప్రస్తుతించబడింది. మేము మీ ఆసక్తులను నేర్చుకుంటాము మీ వ్యక్తిగత వార్తా ఫీడ్‌ను కట్టడానికి. మీ సిఫారించడానికి వ్యాసాలను ఇష్టపడండి.",
+          "image": "https://i.postimg.cc/d3TGm6s2/img2.png",
+          "title": "న్యూస్ స్ట్రీమ్‌ను నావిగేట్ చేయండి"
+        },
+        {
+          "desc": "వార్తలు చర్చించండి, అంతర్దృష్టిని పంచుకోండి, మరియు గౌరవంగా మరియు తెరవేన ఫోరమ్‌లో దృష్టికోణాలను ప్రతిపాదించండి. చదవడం మరియు వ్యాఖ్యానించడం ద్వారా పాయింట్లు మరియు స్థాయిలు పొందండి. లీడర్‌బోర్డ్‌ను తనిఖీ చేయండి మరియు మీ వార్తా IQను మెరుగుపరచండి!. ",
+          "image": "https://i.postimg.cc/h4HYF3dq/img3.png",
+          "title": "సంభాషణలో చేరండి"
+        }
+      ]
+    },
+    {
+      "onboarding_hi": [
+        {
+          "desc": "अनभिलषित दुनिया का अनुभव करें। आपकी खबर, पक्षपात रहित और व्यक्तिगत, केवल हमारे ऐप के साथ।",
+          "image": "https://i.postimg.cc/pTK2fnN9/img1.png",
+          "title": "स्वागत है Synopse में! \n AI-क्यूरेटेड समाचार के साथ अद्यतित रहें।",
+          "get_started": "शुरू करना",
+          "skip": "छोड़ें",
+          "next": "आगे बढ़ें"
+        },
+        {
+          "desc": "जटिल मुद्दों के विस्तृत विवरण में डुबकी लें, स्पष्ट और संक्षिप्त तरीके से प्रस्तुत। हम आपके हिटों को सीखेंगे ताकि आपका व्यक्तिगत समाचार फीड बना सकें। अपनी सिफारिशों को ट्यून करने के लिए लेखों को पसंद करें।",
+          "image": "https://i.postimg.cc/d3TGm6s2/img2.png",
+          "title": "समाचार स्ट्रीम नेविगेट करें"
+        },
+        {
+          "desc": "समाचार पर चर्चा करें, अंतर्दृष्टि साझा करें, और सम्मानपूर्वक और खुले मंच पर दृष्टिकोणों को चुनौती दें। पढ़ने और टिप्पणी करने से अंक और स्तर प्राप्त करें। लीडरबोर्ड की जांच करें और अपने समाचार IQ को बेहतर बनाएं!।",
+          "image": "https://i.postimg.cc/h4HYF3dq/img3.png",
+          "title": "वार्तालाप में शामिल हों"
+        }
+      ]
+    },
+    {
+        "onboarding_ta": [
+          {
+            "desc": "உலகை வடிவமைப்பு இல்லாமல் அனுபவிக்கவும். உங்கள் செய்திகள், நடுநிலையான மற்றும் தனிப்பட்டது, எங்கள் பயன்பாட்டின் மூலம் மட்டுமே.",
+            "image": "https://i.postimg.cc/pTK2fnN9/img1.png",
+            "title": "Synopse க்கு வரவேற்கின்றோம்! \n AI-குறைந்த செய்திகளுடன் புதுப்பிக்கப்படுகின்றன.",
+            "get_started": "தொடங்கவும்",
+            "skip": "தவிர்க்க",
+            "next": "அடுத்தது"
+          },
+          {
+            "desc": "சிக்கலான விஷயங்களின் விரிவான விளக்கங்களை ஆழமாக ஆராயுங்கள், தெளிவான மற்றும் சுருக்கமான வழியில் வழங்கப்படுகின்றன. உங்கள் தனிப்பட்ட செய்தி ஊடகத்தை உருவாக்க உங்கள் ஆர்வத்தை நாங்கள் கற்றுக்கொள்வோம். உங்கள் பரிந்துரைகளை மாற்றுவதற்கு கட்டுரைகளை விரும்புங்கள்.",
+            "image": "https://i.postimg.cc/d3TGm6s2/img2.png",
+            "title": "செய்தி ஸ்ட்ரீமை வழிகாட்டு"
+          },
+          {
+            "desc": "ஒரு மரியாதையான மற்றும் திறந்த மன்றத்தில் செய்திகளைப் பற்றி விவாதிக்கவும், நுண்ணறிவுகளைப் பகிரவும் மற்றும் முன்னோக்குகளை சவால் செய்யவும். படித்து கருத்து தெரிவிப்பதன் மூலம் புள்ளிகளையும் நிலைகளையும் பெறுங்கள். லீடர்போர்டைச் சரிபார்த்து, உங்கள் செய்திகளின் IQ ஐ மேம்படுத்தவும்!.",
+            "image": "https://i.postimg.cc/h4HYF3dq/img3.png",
+            "title": "உரையாடலில் சேர்க்கவும்"
+          }
+        ]
+      }
+  ]

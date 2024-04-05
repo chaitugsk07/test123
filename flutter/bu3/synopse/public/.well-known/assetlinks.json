@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.synopseai.synopse",
+      "sha256_cert_fingerprints": [
+        "B6:F3:B3:A6:15:12:71:54:5C:9D:2F:D6:5B:52:78:3D:21:B6:8F:8A:9C:5B:15:6D:80:13:A5:09:B1:55:44:D1",
+        "5D:87:F4:6C:24:6E:64:AE:6B:F7:16:88:D5:BD:24:5F:DA:A5:4E:13:B4:AE:91:CC:17:ED:6A:15:27:22:C4:88"
+      ]
+    }
+  }
+]

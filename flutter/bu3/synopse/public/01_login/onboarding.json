@@ -1,0 +1,90 @@
+[
+    {
+      "onboarding_en": [
+        {
+          "desc": "Experience the world unfiltered. Your news, unbiased and personalized, only with our app.",
+          "image": "https://i.postimg.cc/pTK2fnN9/img1.png",
+          "title": "Welcome to Synopse! Stay informed.",
+          "get_started": "Get Started",
+          "skip": "Skip",
+          "next": "Next"
+        },
+        {
+          "desc": "Dive into detailed breakdowns of complex issues, presented in a clear and concise way.",
+          "image": "https://i.postimg.cc/d3TGm6s2/img2.png",
+          "title": "Navigate the News Stream"
+        },
+        {
+          "desc": "Discuss the news, share insights, and challenge perspectives in a respectful and open forum. Check the leaderboard and improve your news IQ!. ",
+          "image": "https://i.postimg.cc/h4HYF3dq/img3.png",
+          "title": "Join the Conversation"
+        }
+      ]
+    },
+    {
+      "onboarding_te": [
+        {
+          "desc": "ప్రపంచాన్ని ఫిల్టర్ లేకుండా అనుభవించండి. మీ వార్తలు, పక్షపాతం లేకుండా మరియు వ్యక్తిగతమైన మాత్రమే మా యాప్‌తో.",
+          "image": "https://i.postimg.cc/pTK2fnN9/img1.png",
+          "title": "సారాంశానికి స్వాగతం! సమాచారంతో ఉండండి.",
+          "get_started": "ప్రారంభించండి",
+          "skip": "విడుదల",
+          "next": "తరువాతి"
+        },
+        {
+          "desc": "స్పష్టమైన మరియు సంక్షిప్త మార్గంలో అందించబడిన సంక్లిష్ట సమస్యల యొక్క వివరణాత్మక విచ్ఛిన్నాలలోకి ప్రవేశించండి.",
+          "image": "https://i.postimg.cc/d3TGm6s2/img2.png",
+          "title": "న్యూస్ స్ట్రీమ్‌ను నావిగేట్ చేయండి"
+        },
+        {
+          "desc": "గౌరవప్రదమైన మరియు బహిరంగ ఫోరమ్‌లో వార్తలను చర్చించండి, అంతర్దృష్టులను పంచుకోండి మరియు దృక్కోణాలను సవాలు చేయండి. లీడర్‌బోర్డ్‌ను తనిఖీ చేయండి మరియు మీ వార్తల IQని మెరుగుపరచండి!.",
+          "image": "https://i.postimg.cc/h4HYF3dq/img3.png",
+          "title": "సంభాషణలో చేరండి"
+        }
+      ]
+    },
+    {
+      "onboarding_hi": [
+        {
+          "desc": "अनभिलषित दुनिया का अनुभव करें। आपकी खबर, पक्षपात रहित और व्यक्तिगत, केवल हमारे ऐप के साथ।",
+          "image": "https://i.postimg.cc/pTK2fnN9/img1.png",
+          "title": "सारांश में आपका स्वागत है! सूचित रहें।",
+          "get_started": "शुरू करना",
+          "skip": "छोड़ें",
+          "next": "आगे बढ़ें"
+        },
+        {
+          "desc": "स्पष्ट और संक्षिप्त तरीके से प्रस्तुत जटिल मुद्दों का विस्तृत विश्लेषण करें।",
+          "image": "https://i.postimg.cc/d3TGm6s2/img2.png",
+          "title": "समाचार स्ट्रीम नेविगेट करें"
+        },
+        {
+          "desc": "एक सम्मानजनक और खुले मंच पर समाचारों पर चर्चा करें, अंतर्दृष्टि साझा करें और परिप्रेक्ष्य को चुनौती दें। लीडरबोर्ड जांचें और अपना समाचार आईक्यू सुधारें!",
+          "image": "https://i.postimg.cc/h4HYF3dq/img3.png",
+          "title": "वार्तालाप में शामिल हों"
+        }
+      ]
+    },
+    {
+        "onboarding_ta": [
+          {
+            "desc": "உலகை வடிவமைப்பு இல்லாமல் அனுபவிக்கவும். உங்கள் செய்திகள், நடுநிலையான மற்றும் தனிப்பட்டது, எங்கள் பயன்பாட்டின் மூலம் மட்டுமே.",
+            "image": "https://i.postimg.cc/pTK2fnN9/img1.png",
+            "title": "சுருக்கத்திற்கு வரவேற்கிறோம்! தகவலறிந்து இருங்கள்.",
+            "get_started": "தொடங்கவும்",
+            "skip": "தவிர்க்க",
+            "next": "அடுத்தது"
+          },
+          {
+            "desc": "சிக்கலான சிக்கல்களின் விரிவான முறிவுகளுக்குள் மூழ்கி, தெளிவான மற்றும் சுருக்கமான வழியில் வழங்கப்படுகிறது.",
+            "image": "https://i.postimg.cc/d3TGm6s2/img2.png",
+            "title": "செய்தி ஸ்ட்ரீமை வழிகாட்டு"
+          },
+          {
+            "desc": "மரியாதைக்குரிய மற்றும் திறந்த மன்றத்தில் செய்திகளைப் பற்றி விவாதிக்கவும், நுண்ணறிவுகளைப் பகிரவும் மற்றும் முன்னோக்குகளை சவால் செய்யவும். லீடர்போர்டைச் சரிபார்த்து, உங்கள் செய்திகளின் IQ ஐ மேம்படுத்தவும்!.",
+            "image": "https://i.postimg.cc/h4HYF3dq/img3.png",
+            "title": "உரையாடலில் சேர்க்கவும்"
+          }
+        ]
+      }
+  ]
