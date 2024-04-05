@@ -1,1 +1,0 @@
-python3 /home/synopse_ai/synopse/synopse_prod_v2.py >> /home/synopse_ai/synopse/output_$(date +%Y-%m-%d).txt
