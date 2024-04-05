@@ -523,7 +523,7 @@ def set_all_summerize(offset):
 
 def vectorize_en(offset1):
   print(offset1)
-  esecret_ANYSCALE_API_KEY = "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"
+  esecret_ANYSCALE_API_KEY = "as"
   client = openai.OpenAI(
       api_key = esecret_ANYSCALE_API_KEY
   )
@@ -600,7 +600,7 @@ LIMIT 10 OFFSET """+ str(offset1) +""";"""
 
 def vectorize_tel(offset1):
   print(offset1)
-  esecret_ANYSCALE_API_KEY = "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"
+  esecret_ANYSCALE_API_KEY = "as"
   client = openai.OpenAI(
       api_key = esecret_ANYSCALE_API_KEY
   )
@@ -677,7 +677,7 @@ LIMIT 10 OFFSET """+ str(offset1) +""";"""
 
 def vectorize_hin(offset1):
   print(offset1)
-  esecret_ANYSCALE_API_KEY = "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"
+  esecret_ANYSCALE_API_KEY = "as"
   client = openai.OpenAI(
       api_key = esecret_ANYSCALE_API_KEY
   )
@@ -754,7 +754,7 @@ LIMIT 10 OFFSET """+ str(offset1) +""";"""
 
 def vectorize_tam(offset1):
   print(offset1)
-  esecret_ANYSCALE_API_KEY = "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"
+  esecret_ANYSCALE_API_KEY = "as"
   client = openai.OpenAI(
       api_key = esecret_ANYSCALE_API_KEY
   )
@@ -831,7 +831,7 @@ LIMIT 10 OFFSET """+ str(offset1) +""";"""
 
 def vectorize_de(offset1):
   print(offset1)
-  esecret_ANYSCALE_API_KEY = "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"
+  esecret_ANYSCALE_API_KEY = "as"
   client = openai.OpenAI(
       api_key = esecret_ANYSCALE_API_KEY
   )
@@ -1564,7 +1564,7 @@ def gen_final_article_de(offset):
         update_conn_source(q1)
 
 def gen_final_article_tel(offset):
-    esecret_ANYSCALE_API_KEY = "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"
+    esecret_ANYSCALE_API_KEY = "as"
     client = openai.OpenAI(
         api_key = esecret_ANYSCALE_API_KEY
     )
@@ -1689,7 +1689,7 @@ def gen_final_article_tel(offset):
 
 #get dinal article
 def gen_final_article_tam(offset):
-    esecret_ANYSCALE_API_KEY = "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"
+    esecret_ANYSCALE_API_KEY = "as"
     client = openai.OpenAI(
         api_key = esecret_ANYSCALE_API_KEY
     )
@@ -1814,7 +1814,7 @@ def gen_final_article_tam(offset):
 
 #get dinal article
 def gen_final_article_hin(offset):
-    esecret_ANYSCALE_API_KEY = "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"
+    esecret_ANYSCALE_API_KEY = "as"
     client = openai.OpenAI(
         api_key = esecret_ANYSCALE_API_KEY
     )
@@ -2601,7 +2601,7 @@ def create_latest_8hours_hin():
     latest_8hours_output = select_conn_destination(latest_8hours)
 
     if latest_8hours_output[0][0] > 0:
-        esecret_ANYSCALE_API_KEY = "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"
+        esecret_ANYSCALE_API_KEY = "as"
         client = openai.OpenAI(
             api_key = esecret_ANYSCALE_API_KEY
         )
@@ -2677,7 +2677,7 @@ def create_latest_8hours_tel():
     latest_8hours_output = select_conn_destination(latest_8hours)
 
     if latest_8hours_output[0][0] > 0:
-        esecret_ANYSCALE_API_KEY = "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"
+        esecret_ANYSCALE_API_KEY = "as"
         client = openai.OpenAI(
             api_key = esecret_ANYSCALE_API_KEY
         )
@@ -2752,7 +2752,7 @@ def create_latest_8hours_tam():
     latest_8hours_output = select_conn_destination(latest_8hours)
 
     if latest_8hours_output[0][0] > 0:
-        esecret_ANYSCALE_API_KEY = "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"
+        esecret_ANYSCALE_API_KEY = "as"
         client = openai.OpenAI(
             api_key = esecret_ANYSCALE_API_KEY
         )

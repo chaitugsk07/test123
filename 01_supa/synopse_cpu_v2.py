@@ -1564,7 +1564,7 @@ def gen_final_article_de(offset):
 
 
 def gen_final_article_tel(offset):
-    esecret_ANYSCALE_API_KEY = "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"
+    esecret_ANYSCALE_API_KEY = "as"
     client = openai.OpenAI(
         api_key = esecret_ANYSCALE_API_KEY
     )
@@ -1689,7 +1689,7 @@ def gen_final_article_tel(offset):
 
 #get dinal article
 def gen_final_article_tam(offset):
-    esecret_ANYSCALE_API_KEY = "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"
+    esecret_ANYSCALE_API_KEY = "as"
     client = openai.OpenAI(
         api_key = esecret_ANYSCALE_API_KEY
     )
@@ -1814,7 +1814,7 @@ def gen_final_article_tam(offset):
 
 #get dinal article
 def gen_final_article_hin(offset):
-    esecret_ANYSCALE_API_KEY = "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"
+    esecret_ANYSCALE_API_KEY = "as"
     client = openai.OpenAI(
         api_key = esecret_ANYSCALE_API_KEY
     )
