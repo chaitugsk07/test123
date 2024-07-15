@@ -83,6 +83,7 @@ Deno.serve(async (req) => {
     }
     console.log(message1);
     
+    const ANYSCALE_API_KEY = "";
     const openai = new OpenAI({
       apiKey: ANYSCALE_API_KEY,
       baseURL: "https://api.endpoints.anyscale.com/v1",
