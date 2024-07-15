@@ -27,7 +27,6 @@ client = openai.OpenAI(
 )
 
 
-# openai_key = "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"
 client1 = openai.OpenAI(
     api_key = openai_key
 )
